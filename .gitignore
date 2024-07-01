@@ -1,0 +1,12 @@
+.bin
+.obj
+bin
+obj
+
+.vs
+vs
+
+
+**/bin
+**/obj
+
